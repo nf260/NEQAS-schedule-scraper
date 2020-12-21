@@ -1,7 +1,7 @@
 # NEQAS-schedule-scraper
-Birmingham Quality is the main provider of Clinical Biochemistry external quality assessment (EQA) services in the UK.
+[Birmingham Quality](https://birminghamquality.org.uk/) is the main provider of Clinical Biochemistry external quality assessment (EQA) services in the UK.
 
-Distribution schedules for Birmingham Quality external quality assessment samples have historically been provided as PDF files only.
+Distribution schedules (i.e. dispatch dates for samples and deadlines for the return of results) for Birmingham Quality external quality assessment schemes have historically been provided as PDF files only.
 
 The NEQAS-schedule-scraper downloads PDF files from the [Birmingham Quality website](https://birminghamquality.org.uk/schedules/), scrapes the distribution dispatch and return dates, and exports these as a csv file
 
